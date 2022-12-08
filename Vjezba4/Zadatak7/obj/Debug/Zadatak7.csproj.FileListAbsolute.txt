@@ -1,0 +1,8 @@
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\bin\Debug\Zadatak7.exe.config
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\bin\Debug\Zadatak7.exe
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\bin\Debug\Zadatak7.pdb
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\obj\Debug\Zadatak7.csproj.AssemblyReference.cache
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\obj\Debug\Zadatak7.csproj.SuggestedBindingRedirects.cache
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\obj\Debug\Zadatak7.csproj.CoreCompileInputs.cache
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\obj\Debug\Zadatak7.exe
+C:\Users\petar.deveric\source\repos\Vjezba4\Zadatak7\obj\Debug\Zadatak7.pdb
