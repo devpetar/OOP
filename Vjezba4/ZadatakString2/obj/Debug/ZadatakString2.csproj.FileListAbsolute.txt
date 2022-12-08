@@ -1,0 +1,8 @@
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\bin\Debug\ZadatakString2.exe.config
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\bin\Debug\ZadatakString2.exe
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\bin\Debug\ZadatakString2.pdb
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\obj\Debug\ZadatakString2.csproj.AssemblyReference.cache
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\obj\Debug\ZadatakString2.csproj.SuggestedBindingRedirects.cache
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\obj\Debug\ZadatakString2.csproj.CoreCompileInputs.cache
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\obj\Debug\ZadatakString2.exe
+C:\Users\petar.deveric\source\repos\Vjezba4\ZadatakString2\obj\Debug\ZadatakString2.pdb
